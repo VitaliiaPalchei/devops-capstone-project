@@ -27,11 +27,6 @@ This repository contains the starter code for the project in [**IBM-CD0285EN-Ski
 
 ---
 
-# DevOps Capstone Template  
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
-... (rest of the original README remains unchanged)
-
-
 ## Usage
 
 You should use this template to start your DevOps Capstone project. It contains all of the code that you will need to get started.
