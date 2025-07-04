@@ -1,4 +1,3 @@
-#  DevOps Capstone Project – Flask App with CI/CD
 
 This project was completed as part of the **IBM DevOps and Software Engineering Professional Certificate**. It includes a full-stack microservice app built with Python Flask and automated using CI/CD pipelines (GitHub Actions and Tekton).
 
