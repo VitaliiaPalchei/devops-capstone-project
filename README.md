@@ -1,12 +1,3 @@
-# DevOps Capstone Template
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
-
-![Build Status](https://github.com/VitaliiaPalchei/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
-
-This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-
 #  DevOps Capstone Project – Flask App with CI/CD
 
 This project was completed as part of the **IBM DevOps and Software Engineering Professional Certificate**. It includes a full-stack microservice app built with Python Flask and automated using CI/CD pipelines (GitHub Actions and Tekton).
@@ -24,6 +15,15 @@ This project was completed as part of the **IBM DevOps and Software Engineering 
 
 *This README includes the original setup and usage instructions provided by the course.*  
 **Author of this version:** [Vitaliia Palchei](https://github.com/VitaliiaPalchei)
+
+# DevOps Capstone Template
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
+
+![Build Status](https://github.com/VitaliiaPalchei/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
 ---
 
