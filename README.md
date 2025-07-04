@@ -7,11 +7,11 @@
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
-# 🚀 DevOps Capstone Project – Flask App with CI/CD
+#  DevOps Capstone Project – Flask App with CI/CD
 
 This project was completed as part of the **IBM DevOps and Software Engineering Professional Certificate**. It includes a full-stack microservice app built with Python Flask and automated using CI/CD pipelines (GitHub Actions and Tekton).
 
-### 👩‍💻 What I Practiced
+###  What I Practiced
 
 - Running and troubleshooting CI/CD pipelines with GitHub Actions (`ci-build.yaml`)  
 - Working with Kubernetes deployment configs (`deployment.yaml`, `service.yaml`)  
